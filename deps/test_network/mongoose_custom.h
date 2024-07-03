@@ -10,3 +10,4 @@
 #include <unistd.h>
 #include <sys/select.h>
 #include <sys/stat.h>
+#include <signal.h>
